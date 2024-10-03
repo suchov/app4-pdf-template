@@ -4,3 +4,5 @@
 ### don't forget to pip install fpdf
 ### and ofcourse create virtual env by: python -m venv .venv
 ### and use it source .venv/bin/activate
+
+## 🤝 Contributing
